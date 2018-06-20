@@ -1,6 +1,6 @@
 ---
-title: "Positive impacts of mongoose control and a path forward"
-author: "Nicole F. Angeli, Claudia D. Lombard, Steven D. Brewer, Buzz Hoagland"
+title: Ubiquity and control of widespread invasive species
+author: 
 date: "8/5/2017"
 output:
   pdf_document: default
@@ -9,7 +9,7 @@ output:
 
 #
 Online Resource 1
-"Positive impacts of mongoose control and a path forward""
+Bayseian time-structured management scenarios
 
 
 ```{r setup, include=FALSE}
