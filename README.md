@@ -1,4 +1,4 @@
 # mongoose
 
-1. Code
-2. Online supplemental
+1. Caribbean_Islands contains the full mongoose dataset
+2. A map of mongoose distribution is provided.
